@@ -36,11 +36,7 @@ h2 {
 
 p  {
 	color: #555;
-	margin: 0 0 20px 0;
-}
-
-.small {
-	font-size: 0.8em;
+	margin-bottom: 10px;
 }
 
 a {
@@ -49,10 +45,6 @@ a {
 .about img {
 	border: 5px rgb(152,173,166) solid;
 	margin-top: 2px;
-}
-
-.about a:hover {
-	text-decoration: underline;
 }
 
 .press img {
